@@ -1,9 +1,11 @@
 {
   "name": "banga.js",
   "version": "0.0.0",
-  "description": "banga.js",
-  "main": "index.js",
-  "bin": "index.js",
+  "description": "Asset generator for express",
+  "main": "bin/index.js",
+  "bin": {
+    "banga": "bin/index.js"
+  },
   "scripts": {
     "test": "npm run test"
   },
@@ -20,7 +22,11 @@
     "mongo",
     "cli"
   ],
-  "author": "Onyegbu Ifedili",
+  "author": {
+    "name": "Onyegbu Ifedili",
+    "email": "onyegbuifedili@gmail.com",
+    "url": "ifedili.com"
+  },
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/saucecodee/banga/issues"
