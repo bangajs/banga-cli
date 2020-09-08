@@ -1,0 +1,29 @@
+{
+  "name": "banga.js",
+  "version": "0.0.0",
+  "description": "banga.js",
+  "main": "index.js",
+  "bin": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saucecodee/banga.git"
+  },
+  "keywords": [
+    "api",
+    "generator",
+    "node.js",
+    "rest",
+    "express",
+    "mongo",
+    "cli"
+  ],
+  "author": "Onyegbu Ifedili",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/saucecodee/banga/issues"
+  },
+  "homepage": "https://github.com/saucecodee/banga#readme"
+}
