@@ -1,5 +1,6 @@
 #!/usr/bin/env node
 
-const args = process.argv
+const args = require("./../lib/utils/args")
+const banga = require("./../lib")
 
-require("./../lib")(args)
+banga(args.parse(process.argv))
