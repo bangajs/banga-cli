@@ -31,5 +31,8 @@
   "bugs": {
     "url": "https://github.com/saucecodee/banga/issues"
   },
-  "homepage": "https://github.com/saucecodee/banga#readme"
+  "homepage": "https://github.com/saucecodee/banga#readme",
+  "dependencies": {
+    "fs-extra": "^9.0.1"
+  }
 }
