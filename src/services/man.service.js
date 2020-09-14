@@ -1,4 +1,3 @@
-
 const Man = require("./../models/man");
 const CustomError = require("./../utils/CustomError");
 
