@@ -6,7 +6,6 @@ const defaults = require("./../lib/config/defaults")
 
 global.log = console.log
 global.$ = defaults
-// const $.color = defaults.color
 
 try {
      banga(args.parse(process.argv))
