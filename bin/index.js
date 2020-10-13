@@ -6,6 +6,7 @@ const defaults = require("./../lib/config/defaults")
 
 global.log = console.log
 global.$ = defaults
+global.$opt = {}
 
 try {
      banga(args.parse(process.argv))
