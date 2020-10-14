@@ -33,6 +33,7 @@
   },
   "homepage": "https://github.com/saucecodee/banga#readme",
   "dependencies": {
+    "chalk": "^4.1.0",
     "ejs": "^3.1.5",
     "fs-extra": "^9.0.1",
     "opn": "^6.0.0",
