@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 
-const args = require("./../lib/utils/args")
+const args = require("../lib/utils/cli")
 const banga = require("./../lib")
 const defaults = require("./../lib/config/defaults")
 
@@ -11,7 +11,7 @@ global.$opt = {}
 try {
      banga(args.parse(process.argv))
 } catch (error) {
-
+     // log(error)
      const command = `${$.color.red}ERROR:${$.color.reset}`
      const message = `${$.color.bright}${error.message}${$.color.reset}`
      log(`${command}: ${message}`)
