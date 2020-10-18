@@ -1,2 +1,2 @@
-options
-     - 
+- Check if file name is valid before adding to args
+- process custom file location

@@ -1,7 +1,7 @@
 {
-  "name": "banga.js",
+  "name": "bangajs",
   "version": "0.0.0",
-  "description": "Asset generator for express",
+  "description": "Generate production ready Nodejs application in no time",
   "main": "bin/index.js",
   "bin": {
     "banga": "bin/index.js"
