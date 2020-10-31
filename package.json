@@ -1,6 +1,6 @@
 {
   "name": "bangajs",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Generate production ready Nodejs application in no time",
   "main": "bin/index.js",
   "bin": {
