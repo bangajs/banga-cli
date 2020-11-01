@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 
-require("./../lib/utils/cli").parse()
+require("./../lib/utils/app").parse()
 const help = require("./../lib/cmd/help")
 const banga = require("./../lib")
 
