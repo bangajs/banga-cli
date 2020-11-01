@@ -1,11 +1,12 @@
 #!/usr/bin/env node
 
-require("./../lib/utils/app").parse()
 const help = require("./../lib/cmd/help")
-const banga = require("./../lib")
 
 try {
-     banga()
+     require("./../lib/utils/app").parse()
+     const banga = require("./../lib")
+
+     if (process.ARGS) banga()
 } catch (error) {
      console.log(error.message)
      help()
