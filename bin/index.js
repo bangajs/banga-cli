@@ -4,9 +4,7 @@ const help = require("./../lib/cmd/help")
 
 try {
      require("./../lib/utils/app").parse()
-     const banga = require("./../lib")
-
-     if (process.ARGS) banga()
+     if (process.ARGS) require("./../lib")()
 } catch (error) {
      console.log(error.message)
      help()
