@@ -1,12 +1,12 @@
 #!/usr/bin/env node
 
-require("./../lib/utils/app").parse()
+const chalk = require('chalk');
 const help = require("./../lib/cmd/help")
-const banga = require("./../lib")
 
 try {
-     banga()
+     require("./../lib/utils/app").parse()
+     if (process.ARGS) require("./../lib")()
 } catch (error) {
-     console.log(error.message)
+     console.log(chalk.red(error.message))
      help()
 }
