@@ -1,6 +1,6 @@
 {
   "name": "bangajs",
-  "version": "0.2.0",
+  "version": "0.0.1",
   "description": "Banga is a CLI generator for building ExpressJS applications with speed and efficiency.",
   "main": "bin/index.js",
   "bin": {
