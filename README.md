@@ -1,4 +1,4 @@
-[![BangaJS Logo](https://i.ibb.co/qr5jqrk/BangaJS.png)](https://bangajs.netlify.app/)
+[![BangaJS Logo](https://i.ibb.co/Pt3YvsT/banga-banner-2.jpg" )](https://bangajs.netlify.app/)
 
 BangaJS is a cli generator for building [ExpressJS](https://expressjs.com) applications with speed and efficiency.
 
