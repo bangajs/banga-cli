@@ -1,6 +1,6 @@
 [![BangaJS Logo](https://i.ibb.co/qr5jqrk/BangaJS.png)](https://bangajs.netlify.app/)
 
-BangaJS is a cli generator for building [ExpressJS](https://expressjs.com) applications with speed and efficiency.
+BàngáJS is a cli generator for building [ExpressJS](https://expressjs.com) applications with speed and efficiency.
 
 [![NPM Version][npm-image]][npm-url]
 [![NPM Downloads][downloads-image]][downloads-url]
@@ -12,7 +12,7 @@ It's available on the [Node.js](https://nodejs.org/en/) module through the
 
 Before installing, [download and install Node.js](https://nodejs.org/en/download/)
 
-Then install BangaJS globally:
+Then install BàngáJS globally:
 
 ```bash
 $ npm install bangajs -g
@@ -46,7 +46,7 @@ By default the server will be running on http://localhost:2020/
 
 ## People
 
-The author of BangaJS is [Onyegbu Ifedili](https://github.com/saucecodee)
+The author of BàngáJS is [Onyegbu Ifedili](https://github.com/saucecodee)
 
 [List of all contributors](https://github.com/saucecodee/banga/graphs/contributors)
 
