@@ -1,5 +1,3 @@
-> Due to some technical issues `bangajs` won't be available on npm for a while, so we would be using `banga.js` temporarily as the package name, please bear with us ❤
-
 [![BangaJS Logo](https://i.ibb.co/GC3hqjC/banga-banner.jpg)](https://bangajs.netlify.app/)
 
 BàngáJS is a cli generator for building [ExpressJS](https://expressjs.com) applications with speed and efficiency.
