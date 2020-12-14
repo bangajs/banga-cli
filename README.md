@@ -1,6 +1,6 @@
 [![BangaJS Logo](https://i.ibb.co/GC3hqjC/banga-banner.jpg)](https://bangajs.netlify.app/)
 
-BàngáJS is a cli generator for building [ExpressJS](https://expressjs.com) applications with speed and efficiency.
+BàngáJS is a CLI generator for scaffolding [ExpressJS](https://expressjs.com) applications and generating application layer files with speed and efficiency.
 
 [![NPM Version][npm-image]][npm-url]
 [![NPM Downloads][downloads-image]][downloads-url]
