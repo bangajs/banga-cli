@@ -7,7 +7,7 @@ BàngáJS is a CLI generator for scaffolding [ExpressJS](https://expressjs.com) 
 
 ## Installation
 
-It's available on the [Node.js](https://nodejs.org/en/) module through the
+BàngáJS available on the [Node.js](https://nodejs.org/en/) module through the
 [npm registry](https://www.npmjs.com/).
 
 Before installing, [download and install Node.js](https://nodejs.org/en/download/)
@@ -20,8 +20,9 @@ $ npm install bangajs -g
 
 ## Features
 
-- Quick project setup
-- Generate Route, controller and Service files with CRUD methods.
+- Quick project setup.
+- Pre-set authentication functionality.
+- Generate application layer files with CRUD methods.
 
 ## Docs
 
