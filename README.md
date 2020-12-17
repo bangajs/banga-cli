@@ -26,11 +26,11 @@ $ npm install bangajs -g
 
 ## Docs
 
-- [Website and Documentation](https://bangajs.netlify.app/)
+- Check out the [Documentation](https://bangajs.netlify.app/)
 
 ## Getting started
 
-Now let's create a new Express app **hello-world**. It would be created in a new folder called **hello-world** in the current working directory:
+Let's create a new Express app **hello-world**, and it would be created in a new folder called **hello-world** in the current working directory:
 
 ```bash
 $ banga new hello-world
@@ -45,7 +45,7 @@ $ npm run dev
 
 By default the server will be running on http://localhost:2020/
 
-## People
+## Contributors
 
 The author of BàngáJS is [Onyegbu Ifedili](https://github.com/saucecodee)
 
