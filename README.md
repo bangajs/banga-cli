@@ -5,12 +5,12 @@ BàngáJS is a CLI generator for scaffolding [ExpressJS](https://expressjs.com) 
 [![NPM Version][npm-image]][npm-url]
 [![NPM Downloads][downloads-image]][downloads-url]
 
-## Installation
+## Installing BàngáJS
 
 It's available on the [Node.js](https://nodejs.org/en/) module through the
 [npm registry](https://www.npmjs.com/).
 
-Before installing, [download and install Node.js](https://nodejs.org/en/download/)
+Before installing, make sure you've [downloaded and installed Node.js](https://nodejs.org/en/download/)
 
 Then install BàngáJS globally:
 
