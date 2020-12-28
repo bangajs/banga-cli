@@ -7,7 +7,7 @@ BàngáJS is a CLI generator for scaffolding [ExpressJS](https://expressjs.com) 
 
 ## Installing BàngáJS
 
-It's available on the [Node.js](https://nodejs.org/en/) module through the
+BàngáJS available on the [Node.js](https://nodejs.org/en/) module through the
 [npm registry](https://www.npmjs.com/).
 
 Before installing, make sure you've [downloaded and installed Node.js](https://nodejs.org/en/download/)
@@ -20,16 +20,17 @@ $ npm install bangajs -g
 
 ## Features
 
-- Quick project setup
-- Generate Route, controller and Service files with CRUD methods.
+- Quick project setup.
+- Pre-set authentication functionality.
+- Generate application layer files with CRUD methods.
 
 ## Docs
 
-- [Website and Documentation](https://bangajs.netlify.app/)
+- Check out the [Documentation](https://bangajs.netlify.app/)
 
 ## Getting started
 
-Now let's create a new Express app **hello-world**. It would be created in a new folder called **hello-world** in the current working directory:
+Let's create a new Express app **hello-world**, and it would be created in a new folder called **hello-world** in the current working directory:
 
 ```bash
 $ banga new hello-world
@@ -44,7 +45,7 @@ $ npm run dev
 
 By default the server will be running on http://localhost:2020/
 
-## People
+## Contributors
 
 The author of BàngáJS is [Onyegbu Ifedili](https://github.com/saucecodee)
 
