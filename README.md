@@ -1,6 +1,6 @@
 [![BangaJS Logo](https://i.ibb.co/GC3hqjC/banga-banner.jpg)](https://bangajs.netlify.app/)
 
-BàngáJS is a CLI generator for scaffolding [ExpressJS](https://expressjs.com) applications and generating application layer files for speed and efficiency.
+BàngáJS is a CLI generator tool for scaffolding [ExpressJS](https://expressjs.com) applications and generating application layer files with speed and efficiency ⚡️.
 
 
 [![NPM Version][npm-image]][npm-url]
@@ -16,7 +16,7 @@ Before installing, make sure you've [downloaded and installed Node.js](https://n
 Then install BàngáJS globally:
 
 ```bash
-$ npm install bangajs -g
+$ npm install -g  bangajs
 ```
 
 ## Features
