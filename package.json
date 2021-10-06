@@ -19,7 +19,7 @@
     "node.js",
     "rest",
     "express",
-    "mongo",
+    "mongodb",
     "cli"
   ],
   "author": {
@@ -31,7 +31,7 @@
   "bugs": {
     "url": "https://github.com/saucecodee/banga/issues"
   },
-  "homepage": "https://github.com/saucecodee/banga#readme",
+  "homepage": "https://bangajs.com/",
   "dependencies": {
     "chalk": "^4.1.0",
     "ejs": "^3.1.5",
