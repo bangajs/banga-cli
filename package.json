@@ -7,7 +7,8 @@
     "banga": "bin/index.js"
   },
   "scripts": {
-    "test": "npm run test"
+    "test": "npm run test",
+    "create-app": "banga new test-app --no-git --force"
   },
   "repository": {
     "type": "git",
@@ -19,7 +20,7 @@
     "node.js",
     "rest",
     "express",
-    "mongo",
+    "mongodb",
     "cli"
   ],
   "author": {
@@ -31,12 +32,15 @@
   "bugs": {
     "url": "https://github.com/saucecodee/banga/issues"
   },
-  "homepage": "https://github.com/saucecodee/banga#readme",
+  "homepage": "https://bangajs.com/",
   "dependencies": {
     "chalk": "^4.1.0",
     "ejs": "^3.1.5",
     "fs-extra": "^9.0.1",
     "opn": "^6.0.0",
     "yargs-parser": "^20.2.0"
+  },
+  "devDependencies": {
+    "jest": "^27.4.7"
   }
 }

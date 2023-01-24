@@ -8,7 +8,7 @@ process.title = "bangajs-cli";
 process.on("unhandledRejection", (err) => console.log( chalk.red(err.message)));
 
 try {
-  require("../lib/bootstrap").parse()
+  require("./../lib/bootstrap").parse()
   if (process.ARGS) require("./../lib")()
 } catch (error) {
   console.log(chalk.red(error.message))
